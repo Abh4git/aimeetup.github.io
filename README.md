@@ -1,6 +1,6 @@
 # aimeetup.tech
 
-Static website for **AI Meetup Community (AI Keralam)**. Plain HTML/CSS/JS, no build step.
+Static website for **AI Meetup Community **. Plain HTML/CSS/JS, no build step.
 
 ## Deploy on GitHub Pages
 1. Create a repo (e.g. `aimeetup-site`) and push these files to the `main` branch root.
